@@ -53,6 +53,7 @@ main {
 
 .card__description {
   margin-bottom: 24px;
+  padding: 0 16px;
   color: var(--grey);
   font-size: 15px;
   font-weight: 400;
